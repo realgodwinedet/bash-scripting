@@ -1,4 +1,4 @@
-# Bash Scripting Assignment
+# Bash Scripting 
 
 ## Overview
 
